@@ -1,0 +1,55 @@
+{
+    "contentCode": "MANSHOES",
+    "contentId": "838",
+    "layout": [
+        {
+            "component": [
+                {
+                    "componentCode": "TAGLINE",
+                    "componentPositionCode": "11",
+                    "options": "{\"headDescription\":\"人气精选\",\"link\":\"/plp?categoryCode=/men_shoes\",\"linkDescription\":\"查看全部\"}"
+                }
+            ],
+            "layoutCode": "basics",
+            "layoutPositionCode": "1"
+        },
+        {
+            "component": [
+                {
+                    "componentCode": "PATCH",
+                    "componentPositionCode": "11",
+                    "options": "[{\"imgDescription\":\"FORUM\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANSHOES/Patch/zh_CN/0/hlqzqBs9@HQ8507.webp\",\"link\":\"/plp?categoryCode=/men_originals_forum_shoes\",\"tag\":\"\"},{\"imgDescription\":\"SUPERSTAR\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANSHOES/Patch/zh_CN/0/UtT256eD@GY8800.webp\",\"link\":\"/plp?categoryCode=/men_originals_superstar\",\"tag\":\"\"},{\"imgDescription\":\"OZWEEGO\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANSHOES/Patch/zh_CN/0/pBaalImi@GW9746.webp\",\"link\":\"/plp?categoryCode=/men_originals_ozweego_shoes\",\"tag\":\"\"},{\"imgDescription\":\"RETROPY\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANSHOES/Patch/zh_CN/0/81IGfbG3@GW0559.webp\",\"link\":\"/plp?categoryCode=/men_originals_retropy_shoes\",\"tag\":\"\"},{\"imgDescription\":\"NMD\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANSHOES/Patch/zh_CN/0/jYN9ZNyw@GX1208.webp\",\"link\":\"/plp?categoryCode=/men_sports_nmd_shoes\",\"tag\":\"\"},{\"imgDescription\":\"Ultraboost\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANSHOES/Patch/zh_CN/0/phgWgbVT@GX5573.webp\",\"link\":\"/plp?categoryCode=/men_sports_ultraboost_shoes\",\"tag\":\"\"},{\"imgDescription\":\"Originals\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANSHOES/Patch/zh_CN/0/s57ao54z@GV9224.webp\",\"link\":\"/plp?categoryCode=/men_originals_shoes\",\"tag\":\"\"},{\"imgDescription\":\"NEO\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANSHOES/Patch/zh_CN/0/dKvCikVj@GY5427.webp\",\"link\":\"/plp?categoryCode=/men_neo_shoes\",\"tag\":\"\"},{\"imgDescription\":\"小白鞋\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANSHOES/Patch/zh_CN/0/taO8LDNZ@EG4960.webp\",\"link\":\"/plp?categoryCode=/men_allwhite\",\"tag\":\"\"}]"
+                }
+            ],
+            "layoutCode": "basics",
+            "layoutPositionCode": "3"
+        },
+        {
+            "component": [
+                {
+                    "componentCode": "TAGLINE",
+                    "componentPositionCode": "11",
+                    "options": "{\"headDescription\":\"运动类型\",\"link\":\"/plp?categoryCode=/men_shoes\",\"linkDescription\":\"查看全部\"}"
+                }
+            ],
+            "layoutCode": "basics",
+            "layoutPositionCode": "4"
+        },
+        {
+            "component": [
+                {
+                    "componentCode": "PATCH",
+                    "componentPositionCode": "11",
+                    "options": "[{\"imgDescription\":\"跑步\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANSHOES/Patch/zh_CN/0/A6gblxrg@GY6157.webp\",\"link\":\"/plp?categoryCode=/men_running_shoes_highlight\",\"tag\":\"\"},{\"imgDescription\":\"休闲\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANSHOES/Patch/zh_CN/0/Pos0ZWJs@GW9735.webp\",\"link\":\"/plp?categoryCode=/men_adidasneo_shoes\",\"tag\":\"\"},{\"imgDescription\":\"板鞋\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANSHOES/Patch/zh_CN/0/TdhKHki8@HQ6450.webp\",\"link\":\"/plp?categoryCode=/men_board_shoes\",\"tag\":\"\"},{\"imgDescription\":\"凉鞋/拖鞋\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANSHOES/Patch/zh_CN/0/Bv4wTXqu@HP9114.webp\",\"link\":\"/plp?categoryCode=/men_slippers\",\"tag\":\"\"},{\"imgDescription\":\"高尔夫\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANSHOES/Patch/zh_CN/0/xhB8zNnt@GZ3853.webp\",\"link\":\"/plp?categoryCode=/men_golf_shoes\",\"tag\":\"\"},{\"imgDescription\":\"网球\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANSHOES/Patch/zh_CN/0/CPgQT2ra@H02980.webp\",\"link\":\"/plp?categoryCode=/men_tennis_shoes\",\"tag\":\"\"},{\"imgDescription\":\"篮球\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANSHOES/Patch/zh_CN/0/fxvHHwLF@GY0267.webp\",\"link\":\"/plp?categoryCode=/men_basketball_shoes\",\"tag\":\"\"},{\"imgDescription\":\"足球\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANSHOES/Patch/zh_CN/0/0T5QyAjx@GZ4647.webp\",\"link\":\"/plp?categoryCode=/men_football_shoes_segment\",\"tag\":\"\"},{\"imgDescription\":\"户外/骑行\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANSHOES/Patch/zh_CN/0/TmLScTsZ@GZ8921.webp\",\"link\":\"/plp?categoryCode=/men_cycling_shoes\",\"tag\":\"\"}]"
+                }
+            ],
+            "layoutCode": "basics",
+            "layoutPositionCode": "5"
+        }
+    ],
+    "pageCode": "CATALOG",
+    "seoDescription": "",
+    "seoKeyword": "",
+    "seoNoFollow": "",
+    "seoTitle": ""
+}

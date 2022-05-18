@@ -1,0 +1,198 @@
+{
+    "contentCode": "CHILDREN",
+    "contentId": "892",
+    "layout": [
+        {
+            "component": [
+                {
+                    "componentCode": "TAGLINE",
+                    "componentPositionCode": "11",
+                    "options": "{\"headDescription\":\"儿童人气精选\",\"link\":\"/plp?categoryCode=/kids_selection\",\"linkDescription\":\"查看全部\"}"
+                }
+            ],
+            "layoutCode": "basics",
+            "layoutPositionCode": "1"
+        },
+        {
+            "component": [
+                {
+                    "componentCode": "PATCH",
+                    "componentPositionCode": "11",
+                    "options": "[{\"imgDescription\":\"SUPERSTAR \",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/evKwD5Kg@EF4838.webp\",\"link\":\"/plp?categoryCode=/kids_originals_superstar\",\"tag\":\"\"},{\"imgDescription\":\"SUPERSTAR 360\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/GlHNetjh@GY3791.webp\",\"link\":\"/plp?categoryCode=/kids_originals_superstar360\",\"tag\":\"\"},{\"imgDescription\":\"FORUM\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/2fo8YHuC@FY7986.webp\",\"link\":\"/plp?categoryCode=/kids_originals_forum\",\"tag\":\"\"},{\"imgDescription\":\"OZELIA\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/1PZlifCB@GW3323.webp\",\"link\":\"/plp?categoryCode=/kids_originals_ozelia\",\"tag\":\"\"},{\"imgDescription\":\"RETROPY\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/MbjkVTjP@GW0786.webp\",\"link\":\"/plp?categoryCode=/kids_originals_retropy\",\"tag\":\"\"},{\"imgDescription\":\"Originals\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/5OzJ3fL7@GX3233.webp\",\"link\":\"/plp?categoryCode=/kids_originals_shoes\",\"tag\":\"\"}]"
+                }
+            ],
+            "layoutCode": "basics",
+            "layoutPositionCode": "2"
+        },
+        {
+            "component": [
+                {
+                    "componentCode": "TAGLINE",
+                    "componentPositionCode": "11",
+                    "options": "{\"headDescription\":\"儿童联名系列\",\"link\":\"/plp?categoryCode=/kids_collaboration\",\"linkDescription\":\"查看全部\"}"
+                }
+            ],
+            "layoutCode": "basics",
+            "layoutPositionCode": "3"
+        },
+        {
+            "component": [
+                {
+                    "componentCode": "PATCH",
+                    "componentPositionCode": "11",
+                    "options": "[{\"imgDescription\":\"LEGO乐高联名系列\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/bIrOL1qk@HA4041.webp\",\"link\":\"/plp?categoryCode=/lego\",\"tag\":\"\"},{\"imgDescription\":\"Disney 迪士尼联名系列\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/gcoltnvP@GY5532.webp\",\"link\":\"/plp?categoryCode=/kids_colla_disney\",\"tag\":\"\"},{\"imgDescription\":\"MARIMEKKO联名\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/6l4IWFjG@H57208.webp\",\"link\":\"/plp?categoryCode=/kids_colla_marimekko\",\"tag\":\"\"}]"
+                }
+            ],
+            "layoutCode": "basics",
+            "layoutPositionCode": "4"
+        },
+        {
+            "component": [
+                {
+                    "componentCode": "TAGLINE",
+                    "componentPositionCode": "11",
+                    "options": "{\"headDescription\":\"大童鞋（8-14岁）\",\"link\":\"/plp?categoryCode=/youth_shoes\",\"linkDescription\":\"查看全部\"}"
+                }
+            ],
+            "layoutCode": "basics",
+            "layoutPositionCode": "5"
+        },
+        {
+            "component": [
+                {
+                    "componentCode": "PATCH",
+                    "componentPositionCode": "11",
+                    "options": "[{\"imgDescription\":\"男童休闲鞋\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/4ie0x2ak@GZ3894.webp\",\"link\":\"/plp?categoryCode=/youth_boy_leisure_shoes\",\"tag\":\"\"},{\"imgDescription\":\"男童跑步鞋\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/jkg1tahI@H01710.jpg\",\"link\":\"/plp?categoryCode=/youth_boy_running_shoes\",\"tag\":\"\"},{\"imgDescription\":\"男童凉鞋/拖鞋\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/lQGh3E9z@GY3303.webp\",\"link\":\"/plp?categoryCode=/youth_boy_slipper\",\"tag\":\"\"},{\"imgDescription\":\"女童休闲鞋\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/bdUOcfpb@FV3139.webp\",\"link\":\"/plp?categoryCode=/youth_girl_leisure_shoes\",\"tag\":\"\"},{\"imgDescription\":\"女童跑步鞋\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/ch9CzP35@GW3322.webp\",\"link\":\"/plp?categoryCode=/youth_girl_running_shoes\",\"tag\":\"\"},{\"imgDescription\":\"篮球/足球鞋\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/zCK8hIJW@GV8772.webp\",\"link\":\"/plp?categoryCode=/kids_balls_shoes\",\"tag\":\"\"}]"
+                }
+            ],
+            "layoutCode": "basics",
+            "layoutPositionCode": "6"
+        },
+        {
+            "component": [
+                {
+                    "componentCode": "TAGLINE",
+                    "componentPositionCode": "11",
+                    "options": "{\"headDescription\":\"小童鞋（4-8岁）\",\"link\":\"/plp?categoryCode=/little_shoes\",\"linkDescription\":\"查看全部\"}"
+                }
+            ],
+            "layoutCode": "basics",
+            "layoutPositionCode": "7"
+        },
+        {
+            "component": [
+                {
+                    "componentCode": "PATCH",
+                    "componentPositionCode": "11",
+                    "options": "[{\"imgDescription\":\"儿童休闲鞋\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/0v3ES8xM@GZ0800.webp\",\"link\":\"/plp?categoryCode=/little_unisex_leisure_shoes\",\"tag\":\"\"},{\"imgDescription\":\"儿童跑步鞋\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/QLUCBXGz@GW8079.jpg\",\"link\":\"/plp?categoryCode=/little_unisex_running_shoes\",\"tag\":\"\"},{\"imgDescription\":\"儿童凉鞋/拖鞋\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/r8d74pxR@GW0342.webp\",\"link\":\"/plp?categoryCode=/little_unisex_slipper\",\"tag\":\"\"},{\"imgDescription\":\"免系鞋带\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/PQbbxF7N@GX3231.webp\",\"link\":\"/plp?categoryCode=/little_unisex_nonlace\",\"tag\":\"\"}]"
+                }
+            ],
+            "layoutCode": "basics",
+            "layoutPositionCode": "8"
+        },
+        {
+            "component": [
+                {
+                    "componentCode": "TAGLINE",
+                    "componentPositionCode": "11",
+                    "options": "{\"headDescription\":\"婴童鞋（0-4岁）\",\"link\":\"/plp?categoryCode=/infant_shoes\",\"linkDescription\":\"查看全部\"}"
+                }
+            ],
+            "layoutCode": "basics",
+            "layoutPositionCode": "9"
+        },
+        {
+            "component": [
+                {
+                    "componentCode": "PATCH",
+                    "componentPositionCode": "11",
+                    "options": "[{\"imgDescription\":\"学步鞋\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/eRJ24kGB@GX3294.webp\",\"link\":\"/plp?categoryCode=/infant_prewalker\",\"tag\":\"\"},{\"imgDescription\":\"休闲鞋\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/kZbDwWeR@EF4842.webp\",\"link\":\"/plp?categoryCode=/infant_leisure_shoes\",\"tag\":\"\"},{\"imgDescription\":\"凉鞋/拖鞋\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/1kPPLpvs@GY5439.jpg\",\"link\":\"/plp?categoryCode=/infant_slipper\",\"tag\":\"\"}]"
+                }
+            ],
+            "layoutCode": "basics",
+            "layoutPositionCode": "10"
+        },
+        {
+            "component": [
+                {
+                    "componentCode": "TAGLINE",
+                    "componentPositionCode": "11",
+                    "options": "{\"headDescription\":\"大童服装（8-14岁）\",\"link\":\"/plp?categoryCode=/youth_cloth\",\"linkDescription\":\"查看全部\"}"
+                }
+            ],
+            "layoutCode": "basics",
+            "layoutPositionCode": "11"
+        },
+        {
+            "component": [
+                {
+                    "componentCode": "PATCH",
+                    "componentPositionCode": "11",
+                    "options": "[{\"imgDescription\":\"男童T恤\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/XFK2JkGk@HF7451.webp\",\"link\":\"/plp?categoryCode=/youth_boy_tee\",\"tag\":\"\"},{\"imgDescription\":\"男童卫衣\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/iFFLJ4Hu@GJ6675.webp\",\"link\":\"/plp?categoryCode=/youth_boy_hoodie\",\"tag\":\"\"},{\"imgDescription\":\"男童夹克/外套\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/xZbAedLa@HE2562.webp\",\"link\":\"/plp?categoryCode=/youth_boy_jacket\",\"tag\":\"\"},{\"imgDescription\":\"男童下装\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/kloPIilQ@GT9421.webp\",\"link\":\"/plp?categoryCode=/youth_boy_pants\",\"tag\":\"\"},{\"imgDescription\":\"男童配件\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/EfcoGnrE@HF4704.webp\",\"link\":\"/plp?categoryCode=/youth_boy_accessories\",\"tag\":\"\"},{\"imgDescription\":\"女童T恤\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/DaNUpiAU@HF7582.webp\",\"link\":\"/plp?categoryCode=/youth_girl_tee\",\"tag\":\"\"},{\"imgDescription\":\"女童卫衣\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/YVdAF794@HE0112.webp\",\"link\":\"/plp?categoryCode=/youth_girl_hoodie\",\"tag\":\"\"},{\"imgDescription\":\"女童夹克/外套\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/tjChsvpY@HE2563.webp\",\"link\":\"/plp?categoryCode=/youth_girl_jacket\",\"tag\":\"\"},{\"imgDescription\":\"女童下装\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/iqwQTCvw@HE2579.webp\",\"link\":\"/plp?categoryCode=/youth_girl_pants\",\"tag\":\"\"}]"
+                }
+            ],
+            "layoutCode": "basics",
+            "layoutPositionCode": "12"
+        },
+        {
+            "component": [
+                {
+                    "componentCode": "PATCH",
+                    "componentPositionCode": "11",
+                    "options": "[{\"imgDescription\":\"女童裙装\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/8GgTlm1E@HE2573.jpg\",\"link\":\"/plp?categoryCode=/youth_girl_dress\",\"tag\":\"\"},{\"imgDescription\":\"女童配件\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/HAvf45Em@HE2624.webp\",\"link\":\"/plp?categoryCode=/youth_girl_accessories\",\"tag\":\"\"}]"
+                }
+            ],
+            "layoutCode": "basics",
+            "layoutPositionCode": "13"
+        },
+        {
+            "component": [
+                {
+                    "componentCode": "TAGLINE",
+                    "componentPositionCode": "11",
+                    "options": "{\"headDescription\":\"小童服装（4-8岁）\",\"link\":\"/plp?categoryCode=/little_cloth\",\"linkDescription\":\"查看全部\"}"
+                }
+            ],
+            "layoutCode": "basics",
+            "layoutPositionCode": "14"
+        },
+        {
+            "component": [
+                {
+                    "componentCode": "PATCH",
+                    "componentPositionCode": "11",
+                    "options": "[{\"imgDescription\":\"T恤\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/fFSWd40j@H25246.jpg\",\"link\":\"/plp?categoryCode=/little_unisex_tee\",\"tag\":\"\"},{\"imgDescription\":\"卫衣\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/DFthWGSy@HF3099.webp\",\"link\":\"/plp?categoryCode=/little_unisex_hoodie\",\"tag\":\"\"},{\"imgDescription\":\"夹克/外套\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/5DVGM6ct@HL8550.webp\",\"link\":\"/plp?categoryCode=/little_unisex_jacket\",\"tag\":\"\"},{\"imgDescription\":\"套装\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/U48BDE03@HC4581.jpg\",\"link\":\"/plp?categoryCode=/little_unisex_suit\",\"tag\":\"\"},{\"imgDescription\":\"下装\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/VJiZ2E46@HE0003.webp\",\"link\":\"/plp?categoryCode=/little_unisex_pants\",\"tag\":\"\"},{\"imgDescription\":\"配件\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/QunqKlNW@HC9587.webp\",\"link\":\"/plp?categoryCode=/little_unisex_accessories\",\"tag\":\"\"}]"
+                }
+            ],
+            "layoutCode": "basics",
+            "layoutPositionCode": "15"
+        },
+        {
+            "component": [
+                {
+                    "componentCode": "TAGLINE",
+                    "componentPositionCode": "11",
+                    "options": "{\"headDescription\":\"婴童服装（0-4岁）\",\"link\":\"/plp?categoryCode=/infant_cloth\",\"linkDescription\":\"查看全部\"}"
+                }
+            ],
+            "layoutCode": "basics",
+            "layoutPositionCode": "16"
+        },
+        {
+            "component": [
+                {
+                    "componentCode": "PATCH",
+                    "componentPositionCode": "11",
+                    "options": "[{\"imgDescription\":\"T恤\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/MOewQwGw@HE6924.webp\",\"link\":\"/plp?categoryCode=/infant_tee\",\"tag\":\"\"},{\"imgDescription\":\"夹克/外套\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/IfClfZxO@HL8546.webp\",\"link\":\"/plp?categoryCode=/infant_jacket\",\"tag\":\"\"},{\"imgDescription\":\"套装\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/ePlRNoQi@FI8318.jpg\",\"link\":\"/plp?categoryCode=/infant_suit\",\"tag\":\"\"},{\"imgDescription\":\"配件\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/CHILDREN/Patch/zh_CN/0/HW7XkDVg@HE2643.jpg\",\"link\":\"/plp?categoryCode=/infant_accessories\",\"tag\":\"\"}]"
+                }
+            ],
+            "layoutCode": "basics",
+            "layoutPositionCode": "17"
+        }
+    ],
+    "pageCode": "CATALOG",
+    "seoDescription": "",
+    "seoKeyword": "",
+    "seoNoFollow": "",
+    "seoTitle": ""
+}

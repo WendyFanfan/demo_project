@@ -1,0 +1,117 @@
+.paging_content .paging_btn {
+    display: flex;
+    justify-content: space-around;
+}
+
+.paging_btn span:hover {
+    background-color: #b6b6b6;
+    color: #fff;
+}
+
+.paging_active {
+    background-color: #b6b6b6;
+    color: #fff;
+}
+
+.paging_btn span {
+    width: 40px;
+    height: 40px;
+    color: #333;
+    line-height: 40px;
+    text-align: center;
+    cursor: pointer;
+    transition: .5s;
+    border: 1px solid #ccc;
+    border-right: 0;
+}
+
+.paging_btn span:nth-last-child {
+    border: 1px solid #ccc;
+}
+
+.paging_content {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    position: relative;
+    width: 1000px;
+    //background-color: #e5e5e5;
+    margin: 20px auto;
+}
+
+.paging_first,
+.paging_last,
+.paging_up,
+.paging_down {
+    width: 60px;
+    height: 40px;
+    line-height: 40px;
+    color: #333;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    text-align: center;
+    border-right: 0;
+}
+
+.paging_last {
+    border: 1px solid #ccc;
+    margin-right: 10px;
+}
+
+.paging_first:hover,
+.paging_last:hover,
+.paging_up:hover,
+.paging_down:hover {
+    background-color: #b6b6b6;
+    color: #fff;
+}
+
+.paging_Btn p {
+    color: red;
+}
+
+.paging_textBox {
+    margin-right: 10px;
+    color: #585858;
+    font-size: 18px;
+}
+
+.paging_textBox input {
+    margin: 0 2px;
+    width: 50px;
+    height: 35px;
+    border: 1px solid #ccc;
+    outline: none;
+}
+
+.paging_textBox>button {
+    width: 50px;
+    height: 38px;
+    cursor: pointer;
+    color: #333;
+    border: 1px solid #ccc;
+    transition: .5s;
+    margin-left: 10px;
+    outline: none;
+}
+
+.paging_textBox>button:hover {
+    background: #b6b6b6;
+}
+
+.paging_max {
+    padding: 0 10px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    color: #8b8b8b;
+}
+
+/* 注意!! 这个两个样式是一些效果必备的! */
+.paging_none {
+    display: none !important;
+}
+
+.paging_btn_none_block {
+    display: block !important;
+}

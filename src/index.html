@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- 引入偏好图标 -->
+    <link rel="shortcut icon" href="/favicon.ico">
+    <title>adidas by Wendy</title>
+    <link rel="stylesheet" href="css/Normalize.css">
+    <link rel="stylesheet" href="css/header.css">
+    <link rel="stylesheet" href="css/footer.css">
+    <link rel="stylesheet" href="fonts/iconfont.css">
+    <link rel="stylesheet" href="libs/bootstrap.min.css">
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="libs/swiper-bundle.min.css">
+    <link rel="stylesheet" href="css/pages.css">
+</head>
+
+<body>
+    <header></header>
+    <main>
+        <!-- banner轮播图 -->
+        <div class="banner">
+
+            <div class="swiper mySwiper">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide"><img src="img/banner1.jpg" alt=""></div>
+                    <div class="swiper-slide"><img src="img/banner2.webp" alt=""></div>
+                    <div class="swiper-slide"><img src="img/banner3.webp" alt=""></div>
+                </div>
+                <div class="swiper-pagination"></div>
+            </div>
+        </div>
+        <div class="focus-hot">
+            <h1 class="des">推荐衣服</h1>
+            <a href="html/typelist.html">选择更多<span class="iconfont icon-youjiantou"></span></a>
+            <!--自己写的结构-->
+            <!-- <li data-id=${item.goods_id} class="list1">
+                <img src="${item.pic1}" alt="">
+                <h5 class="product-name">${item.title}</h5>
+                <p class="des">${item.price}</p>
+                <a data-id=${item.goods_id} href="./html/typelist.html">立即选购</a>
+
+            </li> -->
+            <div class='container con'>
+
+                <ul class="paging_list" id="wear-list">
+                    <!--要渲染的样式-->
+                </ul>
+            </div>
+
+
+            <!--分页结构-->
+            <div class="paging_content">
+                <div class="paging_first">首页</div>
+                <div class="paging_up">上一个</div>
+                <div class="paging_btn"></div>
+                <div class="paging_down">下一个</div>
+                <div class="paging_last" id="">尾页</div>
+            </div>
+        </div>
+
+        <div class="tuijian">
+            <h1 class="des">主打推荐</h1>
+            <div class="con">
+                <ul id="list-shoes">
+
+
+                </ul>
+            </div>
+        </div>
+        <div class="pingtai">
+            <h1 class="des">会员专属发售平台</h1>
+            <div class="img">
+                <a href="#"><img src="img/EmESzXac@会员平台.webp" alt=""></a>
+                <a href="#"><img src="img/hdTxtBpi@Desktop_会员平台 2.webp" alt=""></a>
+            </div>
+        </div>
+    </main>
+    <footer></footer>
+    <script src="./libs/require.js" data-main="./js/main"></script>
+    <!-- <script>
+        $('header').load('./html/header.html')
+        $('footer').load('./html/footer.html')
+        /*var swiper = new Swiper(".mySwiper", {
+            pagination: {
+                el: ".swiper-pagination",
+                dynamicBullets: true,
+            },
+        });*/
+    </script> -->
+
+</body>
+
+</html>

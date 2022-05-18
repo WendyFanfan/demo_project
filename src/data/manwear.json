@@ -1,0 +1,44 @@
+{
+    "contentCode": "MANWEAR",
+    "contentId": "839",
+    "layout": [
+        {
+            "component": [
+                {
+                    "componentCode": "TAGLINE",
+                    "componentPositionCode": "11",
+                    "options": "{\"headDescription\":\"男子服饰\",\"link\":\"/plp?categoryCode=/men_clothing\",\"linkDescription\":\"查看全部\"}"
+                }
+            ],
+            "layoutCode": "basics",
+            "layoutPositionCode": "1"
+        },
+        {
+            "component": [
+                {
+                    "componentCode": "PATCH",
+                    "componentPositionCode": "11",
+                    "options": "[{\"imgDescription\":\"运动背心\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANWEAR/Patch/zh_CN/0/3JFoBEoP@HB6527.webp\",\"link\":\"/plp?categoryCode=/men_sports_vest\",\"tag\":\"\"},{\"imgDescription\":\"运动T恤\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANWEAR/Patch/zh_CN/0/jQjFqGfi@GM2133.webp\",\"link\":\"/plp?categoryCode=/men_sports_tshirts\",\"tag\":\"\"},{\"imgDescription\":\"休闲T恤\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANWEAR/Patch/zh_CN/0/6kUANgfh@HD0050.webp\",\"link\":\"/plp?categoryCode=/men_sports_tshirts\",\"tag\":\"\"},{\"imgDescription\":\"衬衫/Polo\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANWEAR/Patch/zh_CN/0/XbInKJcI@HF6218.webp\",\"link\":\"/plp?categoryCode=/men_polo_shirts\",\"tag\":\"\"},{\"imgDescription\":\"短裤\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANWEAR/Patch/zh_CN/0/7NT8DtZs@HC9737.webp\",\"link\":\"/plp?categoryCode=/trunks_men\",\"tag\":\"\"},{\"imgDescription\":\"运动裤\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANWEAR/Patch/zh_CN/0/RQ5ic6FJ@HP0434.webp\",\"link\":\"/plp?categoryCode=/men_trackpants\",\"tag\":\"\"},{\"imgDescription\":\"圆领卫衣\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANWEAR/Patch/zh_CN/0/FbOBSRXc@HG6636.jpg\",\"link\":\"/plp?categoryCode=/men_round_hoodie\",\"tag\":\"\"},{\"imgDescription\":\"连帽卫衣\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANWEAR/Patch/zh_CN/0/nGJn6LJh@HD7092.jpg\",\"link\":\"/plp?categoryCode=/men_hoodie\",\"tag\":\"\"},{\"imgDescription\":\"休闲裤\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANWEAR/Patch/zh_CN/0/P1xoeeBr@HM8007.webp\",\"link\":\"/plp?categoryCode=/men_leisurepants\",\"tag\":\"\"}]"
+                }
+            ],
+            "layoutCode": "basics",
+            "layoutPositionCode": "2"
+        },
+        {
+            "component": [
+                {
+                    "componentCode": "PATCH",
+                    "componentPositionCode": "11",
+                    "options": "[{\"imgDescription\":\"防风服\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANWEAR/Patch/zh_CN/0/t5vQYaRT@HM8045.webp\",\"link\":\"/plp?categoryCode=/men_windbreaker\",\"tag\":\"\"},{\"imgDescription\":\"夹克/外套\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANWEAR/Patch/zh_CN/0/U56mEvYl@HE9930.webp\",\"link\":\"/plp?categoryCode=/men_jackets\",\"tag\":\"\"},{\"imgDescription\":\"紧身裤\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANWEAR/Patch/zh_CN/0/61NZtToe@GL0452.webp\",\"link\":\"/plp?categoryCode=/men_tights_clothing\",\"tag\":\"\"},{\"imgDescription\":\"马甲/背心\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANWEAR/Patch/zh_CN/0/4Op8SqdI@HF4776.webp\",\"link\":\"/plp?categoryCode=/men_vest\",\"tag\":\"\"},{\"imgDescription\":\"球衣\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANWEAR/Patch/zh_CN/0/z1gTWhER@GN5723.webp\",\"link\":\"/plp?categoryCode=/men_jersey\",\"tag\":\"\"},{\"imgDescription\":\"高尔夫\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/MANWEAR/Patch/zh_CN/0/AaB0OUTi@HF6219.webp\",\"link\":\"/plp?categoryCode=/men_golf_cloth\",\"tag\":\"\"}]"
+                }
+            ],
+            "layoutCode": "basics",
+            "layoutPositionCode": "3"
+        }
+    ],
+    "pageCode": "CATALOG",
+    "seoDescription": "",
+    "seoKeyword": "",
+    "seoNoFollow": "",
+    "seoTitle": ""
+}

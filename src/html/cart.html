@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- 引入偏好图标 -->
+    <link rel="shortcut icon" href="/favicon.ico">
+    <title>adidas by Wendy</title>
+    <link rel="stylesheet" href="../css/header.css">
+    <link rel="stylesheet" href="../css/footer.css">
+    <link rel="stylesheet" href="../css/Normalize.css">
+    <link rel="stylesheet" href="../libs/bootstrap.min.css">
+    <link rel="stylesheet" href="../fonts/iconfont.css">
+    <link rel="stylesheet" href="../css/cart.css">
+</head>
+
+<body>
+    <header></header>
+    <main>
+        <div class="con" id="box">
+            <h3 class="tit">
+                购物袋
+            </h3>
+            <div class="left" id="left-box">
+                <ul class="list" id="product-list">
+                    <!-- <li>
+                        <input type="checkbox" class="is-select" name="" id="" data-id="${item.goods_id}" ${item.is_select && "checked"}>
+                        <img src="${item.pic1}">
+                        <div class="list-con">
+                            <h4 class="des">${item.title}</h4>
+                            <div class="op">
+    
+                                <div class="add" data-id="${item.goods_id}">+</div>
+                                <input type="text" value="${item.cart_number}" />
+                                <div class="sub" data-id="${item.goods_id}">-</div>
+                            </div>
+                            <p class="size">尺码:${item.select_size}</p>
+                            <p class="pirce">￥${item.price}</p>
+                            <span class="del" data-id="${item.goods_id}"> 移除</span>
+                            <a href="addShop.html">选择规格</a>
+                        </div>
+                    </li> -->
+                </ul>
+            </div>
+            <div class="right">
+                <h3>价格详情</h3>
+                <p>商品金额<span class="price">￥0</span></p>
+
+                <p>优惠金额<span class="discount">-￥0</span></p>
+
+                <p>合计<span class="all price">￥0</span></p>
+
+                <input class="select-all" type="checkbox" name="" id=""><i>全选</i>
+                <a class="btn" href="">结算 <span class="iconfont icon-youjiantou"></span></a>
+            </div>
+        </div>
+    </main>
+    <footer></footer>
+    <script src="../libs/require.js" data-main="../js/cartMain"></script>
+    <!-- <script src="../libs/jquery.min.js"></script>
+    <script src="../libs/bootstrap.min.js"></script>
+    <script>
+        $('header').load('../html/header.html')
+        $('footer').load('../html/footer.html')
+    </script> -->
+</body>
+
+</html>

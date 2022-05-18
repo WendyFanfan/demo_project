@@ -1,0 +1,82 @@
+main {
+    width: 100%;
+    min-height: 200x;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin-top: 40px;
+    border-top: 1px solid #eee;
+
+    .con {
+        margin: 0 auto;
+
+        h3 {
+            font-size: 18px;
+            font-weight: 700;
+            margin-bottom: 30px;
+        }
+
+
+        li {
+            position: relative;
+            height: 180px;
+            width: 100%px;
+            list-style: none;
+            margin-bottom: 20px;
+            border-bottom: 1px solid #eee;
+
+            img {
+                width: 175px;
+                height: 175px;
+                margin-left: 20px;
+                margin-right: 10px;
+                float: left;
+            }
+
+            .list-con {
+                width: 500px;
+                height: 150px;
+                float: left;
+
+                .des {
+                    font-size: 20px;
+                    font-weight: 700;
+                    margin-bottom: 20px;
+                }
+
+                .num {
+                    float: right;
+                    font-size: 18px;
+                    width: 100%;
+                    text-align: right;
+                }
+
+                .btn-primary {
+                    font-weight: 700;
+                    font-size: 16px;
+                    color: #000;
+                    display: block;
+                    float: right;
+                    background-color: #f9f9f9 !important;
+                    border: 0;
+                    position: absolute;
+                    top: 104px;
+                    right: 268px
+                }
+
+
+
+            }
+
+
+        }
+
+    }
+
+    #kuaidi-con {
+        li {
+            margin-bottom: 10px;
+            padding-bottom: 20px;
+            border-bottom: 1px dotted #eee;
+        }
+    }
+}

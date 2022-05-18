@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- 引入偏好图标 -->
+    <link rel="shortcut icon" href="/favicon.ico">
+    <title>adidas by Wendy</title>
+    <link rel="stylesheet" href="../css/header.css">
+    <link rel="stylesheet" href="../css/footer.css">
+    <link rel="stylesheet" href="../css/Normalize.css">
+    <link rel="stylesheet" href="../libs/bootstrap.min.css">
+    <link rel="stylesheet" href="../fonts/iconfont.css">
+    <link rel="stylesheet" href="../css/delivery.css">
+</head>
+
+<body>
+    <header></header>
+    <main>
+        <div class="con">
+            <h3>查看我的快递</h3>
+            <ul>
+                <li>
+                    <div class="product">
+                        <img src="https://static1.adidas.com.cn/ecp-product/cdn-image/article/FM3357/product/pdp/0/FM3357_HM1_eCom_1635837142701.jpg"
+                            alt="">
+                        <div class="list-con">
+                            <h4 class="des">CAMO CREW 运动居家拼接卫衣</h4>
+                            <p class="size">尺码：M</p>
+                            <p class="pirce">￥899</p>
+                            <p class="num">1件</p>
+                            <!-- Button trigger modal -->
+                            <button type="button" class="btn btn-primary btn-lg" data-toggle="modal"
+                                data-target="#myModal">
+                                查看快递进度
+                            </button>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="product">
+                        <img src="https://static1.adidas.com.cn/ecp-product/cdn-image/article/HB3448/product/pdp/0/HB3448_F_Model_eCom_1628051419886.jpg"
+                            alt="">
+                        <div class="list-con">
+                            <h4 class="des">Y-3 CLASSIC CHEST LOGO HOODIE 运动连帽套头衫</h4>
+                            <p class="size">尺码：L</p>
+                            <p class="pirce">￥399</p>
+                            <p class="num">1件</p>
+                            <button type="button" class="btn btn-primary btn-lg" data-toggle="modal"
+                                data-target="#myModal">
+                                查看快递进度
+                            </button>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <!-- Modal -->
+        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                                aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title" id="myModalLabel">快递进度</h4>
+                    </div>
+                    <div class="modal-body">
+                        <ul id="kuaidi-con"></ul>
+                        <!-- <li>
+                            <span class="time">'2022-05-08 16:11:03</span>
+                            <span class="address">菜鸟的成都永丰家园店</span>
+                            <span class="context">【成都肖家河分部】 的胡华秀（13348896576） 正在第1次派件,
+                                请保持电话畅通,并耐心等待（95720为中通快递员外呼专属号码，请放心接听） </span>
+                        </li>
+                        <li>
+                            <span class="time">'2022-05-08 16:11:03</span>
+                            <span class="address">菜鸟的成都永丰家园店</span>
+                            <span class="context">【成都肖家河分部】 的胡华秀（13348896576） 正在第1次派件,
+                                请保持电话畅通,并耐心等待（95720为中通快递员外呼专属号码，请放心接听） </span>
+                        </li>
+                        <li>
+                            <span class="time">'2022-05-08 16:11:03</span>
+                            <span class="address">菜鸟的成都永丰家园店</span>
+                            <span class="context">【成都肖家河分部】 的胡华秀（13348896576） 正在第1次派件,
+                                请保持电话畅通,并耐心等待（95720为中通快递员外呼专属号码，请放心接听） </span>
+                        </li>
+                        <li>
+                            <span class="time">'2022-05-08 16:11:03</span>
+                            <span class="address">菜鸟的成都永丰家园店</span>
+                            <span class="context">【成都肖家河分部】 的胡华秀（13348896576） 正在第1次派件,
+                                请保持电话畅通,并耐心等待（95720为中通快递员外呼专属号码，请放心接听） </span>
+                        </li> -->
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
+                        <!-- <button type="button" class="btn btn-primary">确定</button> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </main>
+    <footer></footer>
+    <!-- <script src="../libs/jquery.min.js"></script>
+    <script src="../libs/bootstrap.min.js"></script>
+    <script>
+        $('header').load('../html/header.html')
+        $('footer').load('../html/footer.html')
+    </script> -->
+    <script src="../libs/require.js" data-main="../js/deliveryMain"></script>
+
+</body>
+
+</html>

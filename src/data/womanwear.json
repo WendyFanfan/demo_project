@@ -1,0 +1,44 @@
+{
+    "contentCode": "WOMENWEAR",
+    "contentId": "843",
+    "layout": [
+        {
+            "component": [
+                {
+                    "componentCode": "TAGLINE",
+                    "componentPositionCode": "11",
+                    "options": "{\"headDescription\":\"女子服饰\",\"link\":\"/plp?categoryCode=/women_clothing\",\"linkDescription\":\"查看全部\"}"
+                }
+            ],
+            "layoutCode": "basics",
+            "layoutPositionCode": "1"
+        },
+        {
+            "component": [
+                {
+                    "componentCode": "PATCH",
+                    "componentPositionCode": "11",
+                    "options": "[{\"imgDescription\":\"运动内衣\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENWEAR/Patch/zh_CN/0/1K9YvpMz@HC7913.webp\",\"link\":\"/plp?categoryCode=/sports_bras_clothing\",\"tag\":\"\"},{\"imgDescription\":\"运动背心\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENWEAR/Patch/zh_CN/0/KEd6623B@HE0375.webp\",\"link\":\"/plp?categoryCode=/women_sports_vest\",\"tag\":\"\"},{\"imgDescription\":\"运动T恤\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENWEAR/Patch/zh_CN/0/GLCJZ9iI@HD0658.webp\",\"link\":\"/plp?categoryCode=/women_sports_tshirts\",\"tag\":\"\"},{\"imgDescription\":\"休闲T恤\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENWEAR/Patch/zh_CN/0/Vnff3jTg@GN2913.webp\",\"link\":\"/plp?categoryCode=/women_leisure_tshirts\",\"tag\":\"\"},{\"imgDescription\":\"短裤\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENWEAR/Patch/zh_CN/0/MpA39mko@HE4553.webp\",\"link\":\"/plp?categoryCode=/women_trunks \",\"tag\":\"\"},{\"imgDescription\":\"紧身裤\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENWEAR/Patch/zh_CN/0/7WDHww0O@HD2350.webp\",\"link\":\"/plp?categoryCode=/women_tights_clothing\",\"tag\":\"\"},{\"imgDescription\":\"衬衫/Polo\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENWEAR/Patch/zh_CN/0/EFIdtocm@HC2719.webp\",\"link\":\"/plp?categoryCode=/women_polo_shirts\",\"tag\":\"\"},{\"imgDescription\":\"长裙/短裙\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENWEAR/Patch/zh_CN/0/PcURkw6u@HC9267.webp\",\"link\":\"/plp?categoryCode=/dress\",\"tag\":\"\"},{\"imgDescription\":\"运动裤\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENWEAR/Patch/zh_CN/0/Q3ivYHJW@FT0642.webp\",\"link\":\"/plp?categoryCode=/women_trackpants\",\"tag\":\"\"}]"
+                }
+            ],
+            "layoutCode": "basics",
+            "layoutPositionCode": "2"
+        },
+        {
+            "component": [
+                {
+                    "componentCode": "PATCH",
+                    "componentPositionCode": "11",
+                    "options": "[{\"imgDescription\":\"圆领卫衣\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENWEAR/Patch/zh_CN/0/qIDtBOT6@HM7432.webp\",\"link\":\"/plp?categoryCode=/women_round_hoodie\",\"tag\":\"\"},{\"imgDescription\":\"连帽卫衣\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENWEAR/Patch/zh_CN/0/jgzskUXK@HE4492.webp\",\"link\":\"/plp?categoryCode=/women_hoodie\",\"tag\":\"\"},{\"imgDescription\":\"休闲裤\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENWEAR/Patch/zh_CN/0/jOE19xYr@GJ6580.webp\",\"link\":\"/plp?categoryCode=/women_leisurepants\",\"tag\":\"\"},{\"imgDescription\":\"防风服\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENWEAR/Patch/zh_CN/0/pAxyQj9O@HM7419.webp\",\"link\":\"/plp?categoryCode=/women_windbreaker\",\"tag\":\"\"},{\"imgDescription\":\"夹克/外套\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENWEAR/Patch/zh_CN/0/AkqaltX0@HE9990.webp\",\"link\":\"/plp?categoryCode=/women_jackets\",\"tag\":\"\"},{\"imgDescription\":\"针织衫\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENWEAR/Patch/zh_CN/0/poCL6jQL@HT3947.webp\",\"link\":\"/plp?categoryCode=/women_knit\",\"tag\":\"\"},{\"imgDescription\":\"马甲/背心\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENWEAR/Patch/zh_CN/0/EBMBg1TQ@HB9403.webp\",\"link\":\"/plp?categoryCode=/men_vest\",\"tag\":\"\"},{\"imgDescription\":\"泳装\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENWEAR/Patch/zh_CN/0/jxpSTOxJ@H62031.webp\",\"link\":\"/plp?categoryCode=/women_swim\",\"tag\":\"\"},{\"imgDescription\":\"高尔夫\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENWEAR/Patch/zh_CN/0/bfYStlHJ@HB3611.webp\",\"link\":\"/plp?categoryCode=/women_golf_cloth\",\"tag\":\"\"}]"
+                }
+            ],
+            "layoutCode": "basics",
+            "layoutPositionCode": "3"
+        }
+    ],
+    "pageCode": "CATALOG",
+    "seoDescription": "",
+    "seoKeyword": "",
+    "seoNoFollow": "",
+    "seoTitle": ""
+}

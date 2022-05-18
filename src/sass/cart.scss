@@ -1,0 +1,167 @@
+main {
+    min-height: 900px;
+    margin-top: 58px;
+    padding-left: 52px;
+    padding-right: 45px;
+
+    .con {
+        .tit {
+            font-size: 25px;
+            font-weight: 700;
+        }
+
+        .left {
+            margin-top: 30px;
+            width: 740px;
+            min-height: 500px;
+            float: left;
+
+            ul {
+                width: 740px;
+                min-height: 500px;
+            }
+
+            li {
+                height: 150px;
+                width: 100%;
+                list-style: none;
+                margin-bottom: 20px;
+
+                .is-select {
+                    border-radius: 0;
+                    height: 20px;
+                    width: 20px;
+                }
+
+                img {
+                    width: 150px;
+                    height: 150px;
+                    margin-left: 20px;
+                    margin-right: 10px;
+                }
+
+                .list-con {
+                    width: 500px;
+                    height: 150px;
+                    float: right;
+
+                    .des {
+                        font-size: 20px;
+                        font-weight: 700;
+                        margin-bottom: 20px;
+                    }
+
+                    .op {
+
+                        float: right;
+
+                        input {
+                            width: 30px;
+                            height: 30px;
+                            border: 1px solid #eceff1;
+                            display: inline-block;
+                            line-height: 30px;
+                            text-align: center;
+
+                        }
+
+
+
+                        div {
+
+                            width: 30px;
+                            height: 30px;
+                            border: 1px solid #eceff1;
+                            display: inline-block;
+                            line-height: 30px;
+                            text-align: center;
+                            cursor: pointer;
+                        }
+                    }
+
+                    .del {
+                        padding-top: 20px;
+                        font-weight: 500;
+                        color: #a4a4a2;
+                        width: 50px;
+                        cursor: pointer;
+                    }
+
+                    a {
+                        font-weight: 700;
+                        font-size: 16px;
+                        color: #000;
+                        display: block;
+                        float: right;
+
+                    }
+                }
+            }
+
+        }
+
+        .right {
+            width: 300px;
+            float: right;
+
+            p {
+                font-size: 16px;
+                font-weight: 700;
+                padding-bottom: 10px;
+
+                span {
+                    float: right;
+                    font-weight: normal;
+                }
+            }
+
+
+            h3 {
+                font-size: 25px;
+                font-weight: 700;
+                margin-bottom: 30px;
+
+            }
+
+            .select-all {
+                display: block;
+                float: left;
+                padding-top: 5px;
+                height: 20px;
+                width: 20px;
+
+
+
+
+
+            }
+
+            i {
+                display: block;
+                float: left;
+                padding-top: 5px;
+                padding-left: 10px;
+                font-style: normal !important;
+            }
+
+            .btn {
+                margin-top: 50px;
+                display: block;
+                width: 100%;
+                height: 40px;
+                background: #000;
+                color: #fff;
+                line-height: 30px;
+                font-size: 16px;
+                font-weight: 700;
+                text-align: left;
+
+                span {
+                    float: right;
+
+                }
+            }
+        }
+
+    }
+}

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- 引入偏好图标 -->
+    <link rel="shortcut icon" href="/favicon.ico">
+    <title>adidas by Wendy</title>
+    <link rel="stylesheet" href="../css/register.css">
+    <link rel="stylesheet" href="../libs/bootstrap.min.css">
+    <link rel="stylesheet" href="../fonts/iconfont.css">
+</head>
+
+<body>
+    <div class="register">
+        <div class="con">
+            <form action="">
+                <h1>欢迎来到 adidas<span class="iconfont icon-adidasi"></span></h1>
+                <h2>注册</h2>
+                <div class="input-group">
+                    <span class="input-group-addon" id="basic-addon1">用户名</span>
+                    <input id="username" type="text" class="form-control" placeholder="请输入用户名 支持英文汉字下划线"
+                        aria-describedby="basic-addon1">
+                </div>
+                <h5 class="tishi" id="username-tishi"></h5>
+                <div class=" input-group">
+                    <span class="input-group-addon" id="basic-addon2">密码</span>
+                    <input id="password" type="password" class="form-control"
+                        placeholder="请输入密码 6到20位字母、数字可包含@!#$%^&*-字符" aria-describedby="basic-addon1">
+                </div>
+                <h5 class="tishi" id="password-tishi"> </h5>
+                <div class=" input-group">
+                    <span class="input-group-addon" id="basic-addon3">确认密码</span>
+                    <input id="password1" type="password" class="form-control" placeholder="请再次密码"
+                        aria-describedby="basic-addon1">
+
+                </div>
+                <h5 class="tishi" id="password1-tishi"></h5>
+                <div class=" input-group">
+                    <span class="input-group-addon" id="basic-addon4">注册手机号</span>
+                    <input id="tel" type="tel" class="form-control" placeholder="请输入手机号码"
+                        aria-describedby="basic-addon1">
+                </div>
+                <h5 class="tishi" id="tel-tishi"></h5>
+                <div class=" input-group">
+                    <span class="input-group-addon" id="basic-addon5">注册邮箱</span>
+                    <input id="email" type="email" class="form-control" placeholder="请输入注册邮箱"
+                        aria-describedby="basic-addon1">
+                </div>
+                <h5 class="tishi" id="email-tishi"> </h5>
+                <div class=" rem">
+                    <input type="radio">
+                    <span>七天免登录</span>
+                    <a class="link" href="login.html">我已有账号，去登录</a>
+
+                </div>
+                <div class="des">在2022年3月15日前使用手机号和密码登录的用户，在官网升级后首次登录时需要点击忘记密码重置密码后登录。
+                </div>
+                <div class="check">
+                    <input id="allow" type="checkbox" checked>
+                    <span>我已阅读并同意adiCLUB会员规则、隐私声明及条款与细则
+                    </span>
+                </div>
+                <button type="button" id="btn" class="btn btn-lg" data-toggle="popover"
+                    data-content="请完成注册信息和勾选协议后才能注册成功">注册</button>
+
+            </form>
+        </div>
+    </div>
+
+
+    <script src="../libs/require.js" data-main="../js/registerMain"></script>
+
+
+</body>
+
+</html>

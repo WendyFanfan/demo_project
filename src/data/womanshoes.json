@@ -1,0 +1,55 @@
+{
+    "contentCode": "WOMENSHOES",
+    "contentId": "841",
+    "layout": [
+        {
+            "component": [
+                {
+                    "componentCode": "TAGLINE",
+                    "componentPositionCode": "11",
+                    "options": "{\"headDescription\":\"人气精选\",\"link\":\"/plp?categoryCode=/women_shoes\",\"linkDescription\":\"查看全部\"}"
+                }
+            ],
+            "layoutCode": "basics",
+            "layoutPositionCode": "1"
+        },
+        {
+            "component": [
+                {
+                    "componentCode": "PATCH",
+                    "componentPositionCode": "11",
+                    "options": "[{\"imgDescription\":\"FORUM\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENSHOES/Patch/zh_CN/0/UlrOmIkX@GX2159.webp\",\"link\":\"/plp?categoryCode=/women_originals_forum_shoes\",\"tag\":\"\"},{\"imgDescription\":\"SUPERSTAR\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENSHOES/Patch/zh_CN/0/2ikEv9LN@GZ0868.webp\",\"link\":\"/plp?categoryCode=/women_originals_superstar\",\"tag\":\"\"},{\"imgDescription\":\"OZWEEGO\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENSHOES/Patch/zh_CN/0/u5IZoHKx@GW9738.webp\",\"link\":\"/plp?categoryCode=/women_originals_ozweego_shoes\",\"tag\":\"\"},{\"imgDescription\":\"RETROPY\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENSHOES/Patch/zh_CN/0/f7wcSaC1@GW0558.webp\",\"link\":\"/plp?categoryCode=/women_originals_retropy_shoes\",\"tag\":\"\"},{\"imgDescription\":\"NMD\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENSHOES/Patch/zh_CN/0/ZkZeftpg@GW8062.webp\",\"link\":\"/plp?categoryCode=/women_sports_nmd_shoes\",\"tag\":\"\"},{\"imgDescription\":\"Ultraboost\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENSHOES/Patch/zh_CN/0/qINMKj1s@GX7832.webp\",\"link\":\"/plp?categoryCode=/women_sports_ultraboost_shoes\",\"tag\":\"\"},{\"imgDescription\":\"Originals\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENSHOES/Patch/zh_CN/0/LUBcf6ch@GV6713.webp\",\"link\":\"/plp?categoryCode=/women_originals_shoes\",\"tag\":\"\"},{\"imgDescription\":\"NEO\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENSHOES/Patch/zh_CN/0/mAoBI7ax@F36483.webp\",\"link\":\"/plp?categoryCode=/women_neo_shoes\",\"tag\":\"\"},{\"imgDescription\":\"小白鞋\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENSHOES/Patch/zh_CN/0/5z4pVlRc@EG4960.webp\",\"link\":\"/plp?categoryCode=/women_allwhite\",\"tag\":\"\"}]"
+                }
+            ],
+            "layoutCode": "basics",
+            "layoutPositionCode": "2"
+        },
+        {
+            "component": [
+                {
+                    "componentCode": "TAGLINE",
+                    "componentPositionCode": "11",
+                    "options": "{\"headDescription\":\"运动类型\",\"link\":\"/plp?categoryCode=/women_shoes\",\"linkDescription\":\"查看全部\"}"
+                }
+            ],
+            "layoutCode": "basics",
+            "layoutPositionCode": "3"
+        },
+        {
+            "component": [
+                {
+                    "componentCode": "PATCH",
+                    "componentPositionCode": "11",
+                    "options": "[{\"imgDescription\":\"跑步\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENSHOES/Patch/zh_CN/0/sH4I1g5b@GZ0185.webp\",\"link\":\"/plp?categoryCode=/women_running_shoes_highlight\",\"tag\":\"\"},{\"imgDescription\":\"休闲\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENSHOES/Patch/zh_CN/0/yzA3dZUz@GW6346.jpg\",\"link\":\"/plp?categoryCode=/women_adidasneo_shoes\",\"tag\":\"\"},{\"imgDescription\":\"板鞋\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENSHOES/Patch/zh_CN/0/DTgoclBg@GY0984.webp\",\"link\":\"/plp?categoryCode=/women_board_shoes\",\"tag\":\"\"},{\"imgDescription\":\"凉鞋/拖鞋\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENSHOES/Patch/zh_CN/0/hE8aeLqm@GZ4328.jpg\",\"link\":\"/plp?categoryCode=/women_slippers\",\"tag\":\"\"},{\"imgDescription\":\"高尔夫\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENSHOES/Patch/zh_CN/0/b86O1au6@GZ3281.webp\",\"link\":\"/plp?categoryCode=/women_golf_shoes\",\"tag\":\"\"},{\"imgDescription\":\"网球\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENSHOES/Patch/zh_CN/0/IxZ9rJsD@EE7874.webp\",\"link\":\"/plp?categoryCode=/women_tennis_shoes\",\"tag\":\"\"},{\"imgDescription\":\"篮球\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENSHOES/Patch/zh_CN/0/aOqz1Ukz@GY2147.webp\",\"link\":\"/plp?categoryCode=/women_basketball_shoes\",\"tag\":\"\"},{\"imgDescription\":\"足球\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENSHOES/Patch/zh_CN/0/ntuVOZg7@GX2633.webp\",\"link\":\"/plp?categoryCode=/women_football_shoes_segment\",\"tag\":\"\"},{\"imgDescription\":\"户外/骑行\",\"imgUrl\":\"https://static1.adidas.com.cn/ecp-cms/cdn-image/WOMENSHOES/Patch/zh_CN/0/Ihi9hi3n@H03192.jpg\",\"link\":\"/plp?categoryCode=/women_cycling_shoes\",\"tag\":\"\"}]"
+                }
+            ],
+            "layoutCode": "basics",
+            "layoutPositionCode": "4"
+        }
+    ],
+    "pageCode": "CATALOG",
+    "seoDescription": "",
+    "seoKeyword": "",
+    "seoNoFollow": "",
+    "seoTitle": ""
+}

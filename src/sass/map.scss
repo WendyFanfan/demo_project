@@ -1,0 +1,85 @@
+main {
+    min-height: 800px;
+    width: 100%;
+
+    .left {
+        width: 400px;
+        float: left;
+        min-height: 800px;
+        margin-left: 60px;
+
+        h3 {
+            font-size: 14px;
+            font-weight: 700;
+            margin-left: 20px;
+        }
+
+        .navbar {
+            background-color: #fff;
+            border: 0;
+            margin-left: -25px;
+        }
+
+        .location-list {
+            margin-top: 10px;
+            margin-left: 10px;
+            height: 754px;
+            overflow: scroll;
+
+            // #panel {
+
+            //     // background-color: white;
+            //     // max-height: 90%;
+            //     // overflow-y: auto;
+            //     // top: 10px;
+            //     // right: 10px;
+            //     // width: 280px;
+            // }
+
+            li {
+                margin-top: 20px;
+                list-style: none;
+                width: 100%;
+                height: 90px;
+                border-bottom: 1px solid #eee;
+
+                .icon-wxbdingwei {
+                    font-size: 20px;
+                    padding-right: 10px;
+
+                }
+
+                .shop-name {
+                    padding-left: 10px;
+                    font-weight: 700;
+                    font-size: 14px;
+                }
+
+                .location {
+                    color: gray;
+                    margin-left: 10px;
+                }
+
+                .distance {
+                    font-size: 12px;
+                    margin-left: 38px;
+                }
+
+            }
+        }
+    }
+
+    .right {
+        width: 800px;
+        height: 800px;
+        background-color: rgb(3, 252, 236);
+        float: right;
+
+        #container {
+            width: 100%;
+            height: 100%;
+        }
+    }
+
+
+}

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- 引入偏好图标 -->
+    <link rel="shortcut icon" href="/favicon.ico">
+    <title>adidas by Wendy</title>
+    <link rel="stylesheet" href="../css/header.css">
+    <link rel="stylesheet" href="../css/footer.css">
+    <link rel="stylesheet" href="../css/Normalize.css">
+    <link rel="stylesheet" href="../libs/bootstrap.min.css">
+    <link rel="stylesheet" href="../fonts/iconfont.css">
+    <link rel="stylesheet" href="../css/typelist.css">
+    <link rel="stylesheet" href="../css/pages.css">
+</head>
+
+<body>
+    <header></header>
+    <main>
+        <div class="con">
+            <h3 class="title">
+                具体产品
+            </h3>
+            <nav class="navbar navbar-default">
+                <form>
+                    <span>产品分类</span>
+                    <select>
+                        <option> 价格</option>
+                        <option id="asy"> 升序</option>
+                        <option id="dey"> 降序</option>
+                    </select>
+                    <select>
+                        <option id="wear">衣服</option>
+                        <option id="shoes">鞋子</option>
+                        <option>配饰</option>
+                    </select>
+
+                    <select>
+                        <option> 颜色</option>
+                        <option> 黑色</option>
+                        <option> 白色</option>
+                        <option> 蓝色</option>
+                        <option> 紫色</option>
+                        <option> 粉色</option>
+
+                    </select>
+                    <select>
+                        <option> 男</option>
+                        <option> 女</option>
+                    </select>
+                </form>
+            </nav>
+
+
+            <div class='container product-list'>
+
+                <ul class="paging_list" id="wear-list">
+                    <!--要渲染的样式-->
+                    <!-- <li>
+                        <img src="${item.pic1}" alt="">
+                        <p class="price">￥${item.price}</p>
+                        <h3 class="product-title">${item.title}                    
+                        </h3>
+                        <a class="des" href="details.html">立即购买</a>
+                    </li> -->
+                </ul>
+            </div>
+
+
+            <!--分页结构-->
+            <div class="paging_content">
+                <div class="paging_first">首页</div>
+                <div class="paging_up">上一个</div>
+                <div class="paging_btn"></div>
+                <div class="paging_down">下一个</div>
+                <div class="paging_last" id="">尾页</div>
+            </div>
+        </div>
+
+
+
+
+
+    </main>
+    <footer></footer>
+    <script src="../libs/require.js" data-main="../js/listMain"></script>
+    <!-- <script src="../libs/jquery.min.js"></script>
+    <script src="../libs/bootstrap.min.js"></script>
+    <script>
+        $('header').load('../html/header.html')
+        $('footer').load('../html/footer.html')
+    </script> -->
+
+</body>
+
+</html>
